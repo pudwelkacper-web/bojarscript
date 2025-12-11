@@ -114,4 +114,4 @@ import
 
 śmieszny język
 
-write bojarscript in .boj files
+write bojarscript in .boj files and compile them using kompajler.py
