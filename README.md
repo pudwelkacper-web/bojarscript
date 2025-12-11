@@ -113,3 +113,5 @@ import
 
 
 śmieszny język
+
+write bojarscript in .boj files
